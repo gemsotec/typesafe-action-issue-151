@@ -1,0 +1,3 @@
+rootProject.name = 'TypesafeActionIssue151'
+
+include ':app'
